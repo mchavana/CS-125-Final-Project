@@ -78,6 +78,13 @@ li a:hover {
     text-align: center;
 }
 
+.contact {
+		font-family: cursive;
+		font-size: 45px;
+		font-weight: normal;
+		margin: 10 0 0px 0px;
+
+}
 
 .footer {
    position: absolute;
@@ -88,3 +95,76 @@ li a:hover {
    color: white;
    text-align: center;
 }
+
+.testimonials {
+		font-family: cursive;
+		font-size: 45px;
+		font-weight: normal;
+		margin: 10 0 0px 0px;
+
+}
+.response {
+		font-family: cursive;
+		font-size: 25px;
+		font-weight: normal;
+		margin-top: -15px;
+		margin-left: 6px;
+		margin-bottom: -10px;
+		text-indent: 30px;
+}
+
+.info{
+ 	position: absolute;
+ 	border: 1px solid purple ;
+ 	background-color: lightblue;
+ 	float: center;
+	left: 10px;
+	margin-top: 450px;
+    width: 37%;
+    height: 120px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 80px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+	position: absolute;
+	float: left;
+	left: 90px;
+	margin-top: 300px;
+	background: #3B5998;
+	color: white;
+}
+
+
+
+.visit {
+		font-family: cursive;
+		font-size: 45px;
+		font-weight: normal;
+		margin: 10 0 0px 0px;
+
+}
+
+.fa-twitter {
+	position: absolute;
+	float: right;
+	left: 230px;
+	margin-top: 300px;
+	background: #55ACEE;
+	color: white;
+}
+
